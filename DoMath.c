@@ -6,6 +6,6 @@ int main(){
 	scanf("%d", &x);
 	printf("Please input y: ");
 	scanf("%d", &y);
-	answer = (2*x + 3*y);
-	printf("( 2x + 3y ) = %d.\n", answer);
+	answer = (4*x + 2*y);
+	printf("( 4x + 2y ) = %d.\n", answer);
 }

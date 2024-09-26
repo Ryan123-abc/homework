@@ -6,5 +6,5 @@ int main(){
 	int number;
 	srand(time(NULL));
 	number = rand()%6+1;
-	printf("Thorwing the dice.... %d!\n", number);
+	printf("Thorwing a dice.... %d.\n", number);
 }
